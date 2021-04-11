@@ -15,7 +15,7 @@
 
 <img src="https://gpvc.arturio.dev/Aletta-ils" />
 
-<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Botku?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Botku-orange?style=for-the-badge&logo=github"></a>
 
 <a href="https://github.com/mrfzvx12/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfzvx12?label=Followers&style=social"></a>
 
