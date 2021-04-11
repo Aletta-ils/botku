@@ -110,7 +110,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 ### Let's connect with me
 <p>
-<a href="http://wa.me/6285706082641" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/6285706082641/" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/ils.lisaa/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=100027617381565" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
