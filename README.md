@@ -5,7 +5,7 @@
 </P>
 
 <p align="center">
-<a href="https://github.com/Aletta-ils"><img title="Aletta-ils" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Aletta-ils"><img title="Aletta-ils" src="https://img.shields.io/badge/github-Aletta-ils-orange.svg?style=social&logo=github"></a>
 
 
 
@@ -29,7 +29,7 @@
 ### Script ini hanyalah cloningan dari versi asli, jika mengalami bug/eror/api tidak bekerja silahkan sempurnakan sendiri
 
 ### Tes bot
-Sebelum menginstal Lexa V.2 coba dulu botnya disini
+Sebelum menginstal Aletta coba dulu botnya disini
 <p>
 <a href="https://chat.whatsapp.com/DpagoKVhhR5G798Cs2TaBy" target="blank"><img src="https://img.shields.io/badge/Grup Whatsapp 1-30302f?style=flat&logo=whatsapp" /></a>
 
@@ -57,7 +57,7 @@ Sebelum menginstal Lexa V.2 coba dulu botnya disini
 ### Install With Termux
 
 ```bash
-> git clone https://github.com/mrfzvx12/termux-whatsapp-bot
+> git clone https://github.com/Aletta-ils/botku
 > cd termux-whatsapp-bot
 > bash install.sh
 > npm start
@@ -72,27 +72,28 @@ Contoh default :
 ```
 {
 	"prefix": ".",
-	"ownerNumber": "6282223014661",
+	"ownerNumber": "6285706082641",
 	"BarBarKey": "YourApiKey",
 	"Vhtearkey": "YourApiKey",
 	"LolHumanKey": "YourApiKey",
         "Vinzapi": "Yourapikey",
         "Itsmeikyapi": "Yourapikey",
 	"limit": "20",
-  "memberlimit": "20",
-  "cr": "𝗠𝗮𝗱𝗲 𝗪𝗶𝘁𝗵 ❤️",
+  "memberlimit": "2",
+  "cr": "𝕬𝖑𝖊𝖙𝖙𝖆 𝕭𝖔𝖙〃",
   "hargalimit": "500",
-  "NamaBot": "Lexa V.2",
-  "Ig": "http://www.instagram.com/mrf.zvx/",
-  "Wa1": "https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst",
-  "Wa2": "https://chat.whatsapp.com/CxAPJ6En3uSDqDX1mmBvrv",
-  "Ovo": "082223014661",
-  "Pulsa": "082223014661",
-  "Dana": "082223014661"
+  "NamaBot": "𝕬𝖑𝖊𝖙𝖙𝖆 𝕭𝖔𝖙〃",
+  "Ig": "https://www.instagram.com/ils.lisaa/",
+
+  "Wa1": "https://chat.whatsapp.com/DpagoKVhhR5G798Cs2TaBy",
+  
+  
+  "Pulsa": "+6285706082641",
+  "Dana": "+6285706082641"
 }
 ```
 
-* Kontak owner
+* kontak owner
 
 Tempat : ```./index.js/101```
 
@@ -101,15 +102,15 @@ Contoh default :
 ```
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor owner
++ 'FN:Ils.lisxx\n' // Nama
++ 'ORG:Aletta bot;\n' // Nama bot
++ 'TEL;type=CELL;type=VOICE;waid=6285706082641:+62 857-0608-2641\n' // Nomor owner
 + 'END:VCARD' 
 ```
 
 ### Let's connect with me
 <p>
-<a href="http://wa.me/6282223014661" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
-<a href="http://www.instagram.com/mrf.zvx/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100028409167054" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
+<a href="http://wa.me/6285706082641" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://www.instagram.com/ils.lisaa/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=100027617381565" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=flat&logo=facebook" /></a>
 </p>
