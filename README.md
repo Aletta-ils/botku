@@ -7,13 +7,13 @@
 
 <p align="center">
 
-<a href="https://github.com/Aletta-ils"><img title="mrfzvx12" src="https://img.shields.io/badge/github-Mrfzvx12-orange.svg?style=social&logo=github"></a>
+<a href="https://github.com/Aletta-ils"><img title="Aletta-ils" src="https://img.shields.io/badge/github-Aletta-ils-orange.svg?style=social&logo=github"></a>
 
 </p>
 
 <p align="center">
 
-<img src="https://gpvc.arturio.dev/mrfzvx12" />
+<img src="https://gpvc.arturio.dev/Aletta-ils" />
 
 <a href="https://github.com/mrfzvx12"><img title="Author" src="https://img.shields.io/badge/Termux Whatsapp Bot-V2-orange?style=for-the-badge&logo=github"></a>
 
