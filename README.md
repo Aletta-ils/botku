@@ -5,7 +5,7 @@
 </P>
 
 <p align="center">
-<a href="https://github.com/Aletta-ils"><img title="Aletta-ils" src="https://img.shields.io/badge/github-Aletta-ils-orange.svg?style=social&logo=github"/></a>
+<a href="https://github.com/Aletta-ils"><img title="Aletta-ils" src="https://img.shields.io/badge/github-Aletta-ils-orange.svg?style=social&logo=github"></a>
 
 
 
